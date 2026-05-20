@@ -1,13 +1,13 @@
 <div align="center" style="font-family: 'Inter', sans-serif;">
 
 <a href="#" onclick="return false;" style="pointer-events: none; cursor: default;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8EB9FC&height=180&section=header&text=Tala%20Suhail%20Khalil&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" style="pointer-events: none;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=75978F&height=180&section=header&text=Tala%20Suhail%20Khalil&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" style="pointer-events: none;" />
 </a>
 
 <br/>
 
 <p align="center">
-  <span style="font-size: 20px; font-weight: 600; color: #8EB9FC; letter-spacing: 0.5px;">
+  <span style="font-size: 20px; font-weight: 600; color: #75978F; letter-spacing: 0.5px;">
     Computer Science Student 🎓 &nbsp;|&nbsp; Backend Developer 💻
   </span>
 </p>
@@ -51,12 +51,12 @@ I am a Computer Science student in my graduation semester, passionate about buil
   <tr style="border: none; background: transparent;">
     <td style="border: none; padding: 0 15px; background: transparent;">
       <a href="https://www.linkedin.com/in/tala-khalil-computer-science/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-8EB9FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-75978F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
     <td style="border: none; padding: 0 15px; background: transparent;">
       <a href="mailto:talasuhail4@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Email-8EB9FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        <img src="https://img.shields.io/badge/Email-75978F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
     </td>
   </tr>
